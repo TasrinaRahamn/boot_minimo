@@ -1,0 +1,74 @@
+body{
+    background-color: FFFFFF;
+    color: #8C8C8C;
+}
+.head{
+    color: #000000; 
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 30px 0px;
+}
+.nav_text ul li a{
+    color: lightskyblue !important; 
+    font-weight: normal;
+    font-size: 18px;
+    padding: 20px 22px !important;
+}
+.nav_text ul li a:hover{
+    color: black !important;
+}
+.content{
+   margin: 30px 0px;
+}
+.common h1{
+    margin: 40px 0px;
+}
+.common p{
+    margin-bottom: 40px;
+}
+.common img{
+    margin-bottom: 20px;
+}
+.form{
+    background-color: #F3F3F3;
+}
+.form_label{
+    width: 540px;
+    margin: 70px 300px;
+}
+.custom_label{
+    font-size: 20px;
+    background-color: transparent;
+    border-color: transparent;
+    border-bottom: 2px solid black;
+}
+.loadmore{
+    margin: 50px 0px;
+}
+.custom_btn{
+    padding: 10px 20px;
+    border-radius: 0px;
+}
+.footer{
+    background-color: #F3F3F3;
+}
+.data ul li a{
+    color: black !important; 
+    font-weight: normal;
+    font-size: 18px;
+    padding: 20px 22px !important;
+}
+.icons{
+    margin-left: 20px;
+}
+.icons i{
+     color: black !important; 
+    font-weight: normal;
+    font-size: 18px;
+    padding: 20px 12px !important;
+}
+.icons span{
+    color: black !important; 
+    font-weight: normal;
+    font-size: 18px;
+}
